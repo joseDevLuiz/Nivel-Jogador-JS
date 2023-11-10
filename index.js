@@ -1,6 +1,5 @@
 const nomeHeroi = "Demolidor";
-xp = 9000;
-let nivelHeroi = "Iniciante";
+let xp = 9000;
 
 console.log("----------------------------------------------------")
 console.log("Seja muito bem-vindo ao centro de premiações")
