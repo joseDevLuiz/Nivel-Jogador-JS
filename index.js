@@ -3,7 +3,7 @@ xp = 9000;
 let nivelHeroi = "Iniciante";
 
 console.log("----------------------------------------------------")
-console.log("Seja muito bem-vindo ao centro de premeações")
+console.log("Seja muito bem-vindo ao centro de premiações")
 console.log("Sei que não foi nada fácil chegar aqui mas")
 console.log("Cada desafio te rendeu pontos de experiências ou XPs")
 console.log("E esses pontos ou XP poderão ser usados para elevar")
